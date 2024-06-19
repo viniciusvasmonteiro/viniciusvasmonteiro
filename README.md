@@ -22,6 +22,8 @@
  
    <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=602D9B"/></a>
    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B"/></a>
+   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=602D9B"/></a>
+   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Postgresql-151515?style=for-the-badge&logo=postgresql&logoColor=602D9B"/></a>
    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"/></a>
    <br>
  
