@@ -1,9 +1,9 @@
 <h1>:earth_americas: Hello World!</h1>
 <h3>:bar_chart: GitHub Stats:</h3>
 <div><br>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/viniciusFUU?theme=midnight-purple&background=151515&cardType=level-alternate"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/viniciusvasmonteiro?theme=midnight-purple&background=151515&cardType=level-alternate"/>
   &nbsp; 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFUU&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvasmonteiro&theme=dark&title_color=6E33B5&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
 </div>
 
 <p>
@@ -26,4 +26,4 @@
   <a href="https://pt-br.reactjs.org"><img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=602D9B"/></a>
 </p>
 
-![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=viniciusFUU)
+![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=viniciusvasmonteiro)
