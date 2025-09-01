@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  <a href="https://www.linkedin.com/in/viniciusvasm/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
+  <a href="https://www.linkedin.com/in/viniciusvasmonteiro/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=vaugusto479@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=602D9B"/></a>
 </p>
 
